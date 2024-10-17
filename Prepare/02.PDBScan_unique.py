@@ -32,7 +32,7 @@ for root, dirs, files in os.walk(path):
 # modified 	is a Python list of modified residues (MODRES)
 # when modified residues are present, each will be represented as: 
 #(resname, chid, resnum, icode, stdname, comment)
-              if prot.modified:
+               if prot.modified:
                    elems = len(prot.modified)
                    for i in range(elems):
                        symb = prot.modified[i][0]
