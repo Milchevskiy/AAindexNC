@@ -8,7 +8,7 @@
 #
 # Dependencies:
 #  1. python 3 (tested with python 3.10)
-#  3. ProDy (tested with ProDy 2.4.1 installed by pip)
+#  2. ProDy (tested with ProDy 2.4.1 installed by pip)
 #
 ######################################################################################
 
