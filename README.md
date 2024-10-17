@@ -1,4 +1,4 @@
-# ncAAs.2024
+# AAindexNC
 Bioinformatic scripts for XXXX 2024 article concerning prediction of physicochemical properties of non-canonical amino acids
 Yury V. Milchevsky, Yury V. Kravatsky
 "AAindexNC: An Original Method for Estimating Physicochemical Properties of Non-Canonical Amino Acids Derived from PDB and PDBeChem, Implemented as a Tool and a Precomputed Database." 2024, XXXXX, XXXXX
